@@ -63,20 +63,6 @@ The raw dataset contains stacked regional datasets along with header artifacts. 
 
 ---
 
-## 📁 Repository Structure
-
-```text
-forest-fire-prediction/
-│
-├── forest_fire_logistic_regression.ipynb   # Main Jupyter Notebook
-├── forest_fire_logistic_regression.py      # Standalone Python Script
-├── forest_fires_cleaned.csv                # Cleaned preprocessed dataset
-├── data/
-│   └── Algerian_forest_fires_dataset_UPDATE.csv  # Original raw dataset
-├── requirements.txt                         # Dependency file
-└── README.md                                # Project documentation
-```
-
 ---
 
 ## 🚀 How to Run
