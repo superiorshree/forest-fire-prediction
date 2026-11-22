@@ -96,5 +96,11 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author & Acknowledgments
 
-* **Repository Owner:** [superiorshree](https://github.com/superiorshree)
-* **Dataset Credit:** Faroudja Abid & UCI Machine Learning Repository
+Student Name: Shreeyansh Mahamuni
+
+Roll Number: AD3231
+
+Course: Artificial Intelligence and Data Science
+
+Activity: Activity 2 – Logistic Regression Algorithms
+ **Dataset Credit:** Faroudja Abid & UCI Machine Learning Repository
