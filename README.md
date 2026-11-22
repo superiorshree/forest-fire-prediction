@@ -62,7 +62,9 @@ The raw dataset contains stacked regional datasets along with header artifacts. 
 * **Feature Importance:** Higher values of `FFMC`, `ISI`, and `FWI` strongly correlate with fire occurrences.
 
 ---
+## GitHub Submission
 
+Submitted to: [@complexiota](https://github.com/complexiota)
 ---
 
 ## 🚀 How to Run
